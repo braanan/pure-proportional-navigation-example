@@ -6,7 +6,7 @@
 
 * Kinematics assume all commands are executed perfectly and immediately.
 
-* This use case considered in the script is USBL tracking with an AUV, so disturbances from ocean currents can be introduced. 
+* The use case considered in the script is USBL tracking with an AUV, so disturbances from ocean currents can be introduced. 
  
 ### Resources:
 * Zarchan, P., 2007. Tactical and Stratigic Missile Guidance, AIAA Press
